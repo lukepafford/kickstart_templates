@@ -15,6 +15,7 @@ the `hostname` variable must be provided as a query argument.
 *	`admin_crypted_password`: $6$zlDK20dk...
 *	`admin_user`: first.last
 *	`install_url`: http://mirror.centos...
+* `timezone`: America/Los_Angeles
 *	`drive_type`:  (vda/sda)
 *	`domain`: example.com
 *	`idm_server`: idm.example.com
